@@ -14,6 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-cruz-arantes-da-silva-244a73199/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-yellow)](https://leetcode.com/RCAS2009/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-darklime)](https://www.hackerrank.com/profile/rafaelcr2020)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue)](https://www.kaggle.com/rafaelcruza)
 
 ## Skills
 
