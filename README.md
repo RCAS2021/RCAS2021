@@ -1,8 +1,8 @@
 # Rafael Cruz
 
-## Language
+## Idioma
 
-This readme is also available in English
+Este README também está disponível em inglês:
 https://github.com/RCAS2021/RCAS2021/blob/main/English/README.md
 
 # Sobre mim:
