@@ -1,5 +1,10 @@
 # Rafael Cruz
 
+# Language
+
+This README is also available in Portuguese:
+https://github.com/RCAS2021/RCAS2021/blob/main/README.md
+
 # About me:
     Hi,
       I'm a Brazilian Computer Science undergraduate in Univerisdade Veiga de Almeida,
