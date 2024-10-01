@@ -6,11 +6,23 @@ This README is also available in Portuguese:
 https://github.com/RCAS2021/RCAS2021/blob/main/README.md
 
 # About me:
-    Hi,
-      I'm a Brazilian Computer Science undergraduate in Univerisdade Veiga de Almeida,
-      I've also studied Information Technology Technical Course during my High School years in Instituto Superior de Educação do Rio de Janeiro,
-      during my courses I've learned JAVA, HTML, CSS, PHP and C.
-      Recently, I'm focusing in learning Python for data visualization, data analysis and machine learning.
+    Python developer studying bachelor's degree in Computer Science in Universidade Veiga de Almeida, with Technical Course in IT by Instituto Superior de Educação do Rio de Janeiro(FAETEC),
+    where I completed an internship with the following functions:
+    • Installation and configuration of hardware and software.
+    • Computer Maintenance.
+    • Crimping and network cables testing.
+    • Updating spreadsheets.
+        
+    Knowledge and experience in personal projects using Python and its libraries focused on data:
+    Matplotlib, Pandas, Numpy, Folium, Plotly and Scikit-Learn.
+    Flask and Django web frameworks.
+    SQL with MySQL and PostgreSQL.
+    Robotic Process Automation with Selenium and Pyautogui.
+    Data visualization with Power BI.
+    Web development with Node.js, React, Typescript and TailwindCSS.
+        
+    Delving deeper into cloud computing with AWS and GCP,
+    having already completed a course focusing on AWS Lambda, and web development with Typescript and React.
 
 ## Socials
 
