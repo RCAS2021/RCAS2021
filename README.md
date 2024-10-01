@@ -6,19 +6,24 @@ Este README também está disponível em inglês:
 https://github.com/RCAS2021/RCAS2021/blob/main/English/README.md
 
 # Sobre mim:
-    Desenvolvedor Python cursando Ciência da Computação na Universidade Veiga de Almeida, com formação técnica em informática pelo Instituto Superior de Educação do Rio de Janeiro (FAETEC), onde realizei estágio com as seguintes funções:
+    Desenvolvedor Python cursando Ciência da Computação na Universidade Veiga de Almeida, 
+    com formação técnica em informática pelo Instituto Superior de Educação do Rio de Janeiro (FAETEC),
+    onde realizei estágio com as seguintes funções:
     • Instalação e configuração de hardware e software.
     • Manutenção de Computadores.
     • Crimpagem e teste de cabos de rede.
     • Atualização de planilhas.
     
-    Possuo conhecimento e experiência em projetos pessoais com Python e suas bibliotecas voltadas à área de dados como Matplotlib, Pandas, Numpy, Folium, Plotly e Scikit-Learn.
+    Conhecimento e experiência em projetos pessoais com Python e suas bibliotecas voltadas à área de dados:
+    Matplotlib, Pandas, Numpy, Folium, Plotly e Scikit-Learn.
     Frameworks web Flask e Django.
     SQL com MySQL e PostgreSQL.
     Automação de Processos com Selenium e Pyautogui.
     Visualização de dados com Power BI.
+    Desenvolvimento web com Node.js, React, Typescript e TailwindCSS.
     
-    Atualmente estudando sobre computação em nuvem com AWS e GCP, já tendo realizado curso com foco em AWS Lambda.
+    Me aprofundando em computação em nuvem com AWS e GCP, já tendo realizado curso com foco em AWS Lambda e
+    desenvolvimento web com Typescript e React.
 
 ## Redes Sociais
 
