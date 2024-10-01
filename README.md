@@ -1,10 +1,5 @@
 # Rafael Cruz
 
-## Idioma
-
-Este README também está disponível em inglês:
-https://github.com/RCAS2021/RCAS2021/blob/main/English/README.md
-
 # Sobre mim:
     Desenvolvedor Python cursando Ciência da Computação na Universidade Veiga de Almeida, 
     com formação técnica em informática pelo Instituto Superior de Educação do Rio de Janeiro (FAETEC),
